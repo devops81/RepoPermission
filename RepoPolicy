@@ -1,0 +1,30 @@
+Addition to my last email, below policies need to be implemented in GIT by Sanjeeb. 
+
+Ramendra, Pradeep, 
+If you see any change in below policies, we can discuss it on Monday and apply same accordingly. 
+
+FOR UI repository (EXL-APPBUILDER)
+Branch “R2”:
+1.	Merge & push access to “R2” branch should be allowed to only – Ramendra, Ankit Singhal, Ashish Kumar, Ashish Srivastava
+Branch “R2Dev”:
+1.	Merge and push access to “R2Dev” should be allowed to everyone. 
+2.	At least one reviewer is mandatory to merge & push anything on “R2Dev” branch. 
+Branch “master”:
+Merge access to master branch should be allowed to only – Ashish Srivastava, Ramendra 
+Branch “SP5”:
+1.	Merge and push access to “SP5” should be allowed to everyone. 
+2.	At least one reviewer is mandatory to merge & push anything on “SP5” branch. 
+
+
+FOR all repositories (Microservices layer repositories)
+Branch “QA”:
+1.	Merge & push access to “QA” branch should be allowed to only – Pradeep Kumar, Vaibhav Jain, Ramendra, Ashish Srivastava
+Branch “Development”:
+1.	Merge and push access to “Development” should be allowed to everyone. 
+2.	At least one reviewer is mandatory to merge & push anything on “Development” branch. 
+Branch “master”:
+Merge access to master branch should be allowed to only – Ashish Srivastava, Ramendra 
+Branch “SP5”:
+1.	Merge and push access to “SP5” should be allowed to everyone. 
+2.	At least one reviewer is mandatory to merge & push anything on “SP5” branch. 
+
